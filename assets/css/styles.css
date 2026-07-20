@@ -246,12 +246,15 @@ h1, h2, h3, h4 { font-family: 'Poppins', system-ui, sans-serif; font-weight: 800
   pointer-events: none;
 }
 .hero__inner {
-  display: grid;
-  grid-template-columns: 1.1fr 0.9fr;
-  gap: 60px;
-  align-items: center;
+  display: block;
+  max-width: 820px;
+  margin: 0 auto;
   position: relative;
+  text-align: center;
 }
+.hero__copy { margin: 0 auto; }
+.hero__bullets { justify-content: center; }
+.hero__actions { justify-content: center; }
 
 .hero__pill {
   display: inline-block;
@@ -303,77 +306,52 @@ h1, h2, h3, h4 { font-family: 'Poppins', system-ui, sans-serif; font-weight: 800
   color: rgba(255,255,255,0.78);
 }
 
-.hero__art {
-  position: relative;
-  display: flex;
-  justify-content: center;
-}
-.hero__glow {
-  position: absolute;
-  width: 80%;
-  aspect-ratio: 1;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(139,195,74,0.4), transparent 60%);
-  filter: blur(40px);
-  z-index: 0;
-}
-.hero__img {
-  position: relative;
-  z-index: 1;
-  max-height: 540px;
-  width: auto;
-  filter: drop-shadow(0 20px 50px rgba(0,0,0,0.5));
-}
-
 /* ============================================================
-   HERO BANNER (entre hero e passos)
+   HERO BANNER (primeira seção)
+   Imagem 1717x916 (proporção ~1.874:1)
+   Estratégia: nunca cortar — usar object-fit: contain + aspect-ratio fiel
 ============================================================ */
 .hero-banner {
   background: var(--preto);
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
+  /* Aspect-ratio fiel da imagem = 1717/916 ≈ 1.874 */
+  aspect-ratio: 1717 / 916;
   overflow: hidden;
   position: relative;
-  /* Compensa o preto do hero pra não ter "corte" visual */
-  margin-top: -1px;
 }
 .hero-banner__img {
   display: block;
+  /* Largura maxima limitada pra nao esticar em monitores 4K */
   width: 100%;
-  height: auto;
-  /* Limita altura no desktop pra não ficar gigante */
-  max-height: 540px;
-  object-fit: cover;
+  max-width: 1920px;
+  height: 100%;
+  /* CONTAIN garante que a imagem nunca sera cortada */
+  object-fit: contain;
   object-position: center;
-  /* Pequena animação de entrada */
+  /* Animacao sutil */
   animation: bannerFade .8s ease-out;
 }
 @keyframes bannerFade {
-  from { opacity: 0; transform: scale(1.02); }
+  from { opacity: 0; transform: scale(1.01); }
   to   { opacity: 1; transform: scale(1); }
 }
 
 /* Tablet */
 @media (max-width: 1024px) {
-  .hero-banner__img { max-height: 420px; }
+  .hero-banner { aspect-ratio: 16 / 9; }
 }
 
-/* Mobile */
+/* Mobile medio */
 @media (max-width: 768px) {
-  .hero-banner__img {
-    max-height: none;
-    /* Em mobile a imagem já tem proporção boa; mantém aspect ratio */
-    aspect-ratio: 16 / 9;
-  }
+  .hero-banner { aspect-ratio: 4 / 3; }
 }
 
 /* Mobile pequeno */
 @media (max-width: 420px) {
-  .hero-banner__img {
-    aspect-ratio: 4 / 3;
-    object-fit: cover;
-    object-position: center;
-  }
+  .hero-banner { aspect-ratio: 5 / 4; }
 }
 
 /* ============================================================
@@ -611,9 +589,6 @@ h1, h2, h3, h4 { font-family: 'Poppins', system-ui, sans-serif; font-weight: 800
    RESPONSIVO
 ============================================================ */
 @media (max-width: 1024px) {
-  .hero__inner { grid-template-columns: 1fr; gap: 40px; text-align: left; }
-  .hero__art { order: -1; max-width: 360px; margin: 0 auto; }
-  .hero__img { max-height: 360px; }
   .products__grid { grid-template-columns: repeat(3, 1fr); }
 }
 
