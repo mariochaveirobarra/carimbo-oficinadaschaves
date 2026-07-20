@@ -326,6 +326,57 @@ h1, h2, h3, h4 { font-family: 'Poppins', system-ui, sans-serif; font-weight: 800
 }
 
 /* ============================================================
+   HERO BANNER (entre hero e passos)
+============================================================ */
+.hero-banner {
+  background: var(--preto);
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  /* Compensa o preto do hero pra não ter "corte" visual */
+  margin-top: -1px;
+}
+.hero-banner__img {
+  display: block;
+  width: 100%;
+  height: auto;
+  /* Limita altura no desktop pra não ficar gigante */
+  max-height: 540px;
+  object-fit: cover;
+  object-position: center;
+  /* Pequena animação de entrada */
+  animation: bannerFade .8s ease-out;
+}
+@keyframes bannerFade {
+  from { opacity: 0; transform: scale(1.02); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .hero-banner__img { max-height: 420px; }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .hero-banner__img {
+    max-height: none;
+    /* Em mobile a imagem já tem proporção boa; mantém aspect ratio */
+    aspect-ratio: 16 / 9;
+  }
+}
+
+/* Mobile pequeno */
+@media (max-width: 420px) {
+  .hero-banner__img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+/* ============================================================
    PASSOS
 ============================================================ */
 .steps__grid {
