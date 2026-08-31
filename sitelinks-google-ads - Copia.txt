@@ -1,0 +1,195 @@
+================================================================================
+SITELINKS - GOOGLE ADS CARIMBOS OFICINA DAS CHAVES
+Extensões de Sitelink para Campanha de Pesquisa
+================================================================================
+
+# ============================================================================
+SITELINKS (6) - Google Ads
+=========================================================================
+
+ATENÇÃO: Limites do Google Ads
+- Título: 25 caracteres (máximo)
+- Descrição 1: 35 caracteres (máximo)
+- Descrição 2: 35 caracteres (máximo)
+- URL: Página de destino
+
+================================================================================
+
+SITELINK 1: Carimbo Automático
+-------------------------------------------------------------------------
+Título: Carimbo Automático — 20 caracteres ✅
+
+Descrição 1: Modelos Trodat originais — 25 caracteres ✅
+Descrição 2: Prontos em 1 hora — 19 caracteres ✅
+
+URL: https://carimbo-oficinadaschaves.vercel.app/carimbo-automatico-redondo/
+
+---
+
+SITELINK 2: Carimbo Datador
+-------------------------------------------------------------------------
+Título: Carimbo Datador — 18 caracteres ✅
+
+Descrição 1: Automático e padrão — 20 caracteres ✅
+Descrição 2: Vários modelos — 16 caracteres ✅
+
+URL: https://carimbo-oficinadaschaves.vercel.app/carimbo-datador-automatico/
+
+---
+
+SITELINK 3: Carimbo CNPJ
+-------------------------------------------------------------------------
+Título: Carimbo CNPJ — 15 caracteres ✅
+
+Descrição 1: Para empresas — 14 caracteres ✅
+Descrição 2: Todos os tipos — 14 caracteres ✅
+
+URL: https://carimbo-oficinadaschaves.vercel.app/carimbo-cnpj/
+
+---
+
+SITELINK 4: Carimbo Médico
+-------------------------------------------------------------------------
+Título: Carimbo Médico — 16 caracteres ✅
+
+Descrição 1: Com CRM e CRF — 14 caracteres ✅
+Descrição 2: Modelos diversos — 18 caracteres ✅
+
+URL: https://carimbo-oficinadaschaves.vercel.app/carimbo-medico/
+
+---
+
+SITELINK 5: Nossos Modelos
+-------------------------------------------------------------------------
+Título: Nossos Modelos — 16 caracteres ✅
+
+Descrição 1: 12 tipos disponíveis — 21 caracteres ✅
+Descrição 2: Clique e conheça — 18 caracteres ✅
+
+URL: https://carimbo-oficinadaschaves.vercel.app/#produtos
+
+---
+
+SITELINK 6: Fale Conosco
+-------------------------------------------------------------------------
+Título: Fale Conosco — 14 caracteres ✅
+
+Descrição 1: (21) 3952-7434 — 16 caracteres ✅
+Descrição 2: Seg a Sáb 8h-18h — 20 caracteres ✅
+
+URL: https://wa.me/552139527434
+
+================================================================================
+
+# ============================================================================
+CALLOUTS (6) - Google Ads
+=========================================================================
+
+ATENÇÃO: Limites do Google Ads
+- Texto: 25 caracteres (máximo)
+
+---
+
+1. Prontos em 1 hora — 20 caracteres ✅
+2. Entrega no mesmo dia — 21 caracteres ✅
+3. 12 modelos disponíveis — 23 caracteres ✅
+4. Orçamento sem compromisso — 27 caracteres ⚠️ (AJUSTAR)
+
+   CORRIGIDO: Orçamento grátis — 17 caracteres ✅
+
+5. Qualidade garantida — 20 caracteres ✅
+6. Toda Zona Sul do Rio — 21 caracteres ✅
+
+================================================================================
+
+# ============================================================================
+SNIPPET ESTRUTURADO - Google Ads
+=========================================================================
+
+ATENÇÃO: Limites do Google Ads
+- Cabeçalho: padrão do Google (Serviços, Marcas, etc.)
+- Valores: 25 caracteres cada (máximo)
+
+---
+
+CABEÇALHO: Tipos de Carimbo
+
+VALORES:
+1. Automático — 11 caracteres ✅
+2. Datador — 8 caracteres ✅
+3. CNPJ — 4 caracteres ✅
+4. Médico — 6 caracteres ✅
+5. Madeira — 6 caracteres ✅
+6. Bolso — 5 caracteres ✅
+7. Caneta — 6 caracteres ✅
+8. Assinatura — 9 caracteres ✅
+
+================================================================================
+
+# ============================================================================
+RESUMO PARA COPIAR E COLAR NO GOOGLE ADS
+================================================================================
+
+--- SITELINKS ---
+
+1. Carimbo Automático
+   - Título: Carimbo Automático
+   - Desc 1: Modelos Trodat originais
+   - Desc 2: Prontos em 1 hora
+   - URL: https://carimbo-oficinadaschaves.vercel.app/carimbo-automatico-redondo/
+
+2. Carimbo Datador
+   - Título: Carimbo Datador
+   - Desc 1: Automático e padrão
+   - Desc 2: Vários modelos
+   - URL: https://carimbo-oficinadaschaves.vercel.app/carimbo-datador-automatico/
+
+3. Carimbo CNPJ
+   - Título: Carimbo CNPJ
+   - Desc 1: Para empresas
+   - Desc 2: Todos os tipos
+   - URL: https://carimbo-oficinadaschaves.vercel.app/carimbo-cnpj/
+
+4. Carimbo Médico
+   - Título: Carimbo Médico
+   - Desc 1: Com CRM e CRF
+   - Desc 2: Modelos diversos
+   - URL: https://carimbo-oficinadaschaves.vercel.app/carimbo-medico/
+
+5. Nossos Modelos
+   - Título: Nossos Modelos
+   - Desc 1: 12 tipos disponíveis
+   - Desc 2: Clique e conheça
+   - URL: https://carimbo-oficinadaschaves.vercel.app/#produtos
+
+6. Fale Conosco
+   - Título: Fale Conosco
+   - Desc 1: (21) 3952-7434
+   - Desc 2: Seg a Sáb 8h-18h
+   - URL: https://wa.me/552139527434
+
+--- CALLOUTS ---
+
+- Prontos em 1 hora
+- Entrega no mesmo dia
+- 12 modelos disponíveis
+- Orçamento grátis
+- Qualidade garantida
+- Toda Zona Sul do Rio
+
+--- SNIPPET ESTRUTURADO ---
+
+Cabeçalho: Tipos de Carimbo
+Valores:
+- Automático
+- Datador
+- CNPJ
+- Médico
+- Madeira
+- Bolso
+- Caneta
+- Assinatura
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

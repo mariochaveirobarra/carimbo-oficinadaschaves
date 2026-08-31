@@ -1,0 +1,436 @@
+================================================================================
+ESTRUTURA COMPLETA - GOOGLE ADS CARIMBOS OFICINA DAS CHAVES
+Campanha de Pesquisa (Search) - Geração de Leads/Contato
+================================================================================
+
+# ============================================================================
+1. RESUMO DO NEGÓCIO
+# ============================================================================
+
+Nome: Oficina das Chaves — Carimbos em 1H
+Local: Rio de Janeiro - RJ
+Telefone: (21) 3952-7434
+WhatsApp: (21) 3952-7434
+Site: https://carimbos.oficinadaschaves.com/
+Atendimento: Todo o Rio de Janeiro (Zona Sul, Barra, Recreio, Centro)
+Horário: Segunda a Sexta, 8h-18h | Sábado, 8h-13h
+
+Serviços Principais:
+- Carimbo automático (redondo/quadrado)
+- Carimbo datador (automático/padrão)
+- Carimbo CNPJ
+- Carimbo médico
+- Carimbo de madeira
+- Carimbo de bolso (Pocket)
+- Carimbo caneta
+- Carimbo assinatura
+- Carimbo fidelização
+- Carimbo mouse
+
+Diferenciais:
+- Prontos em até 1 hora
+- Entrega no mesmo dia até 18h
+- 12 modelos disponíveis
+- Avaliação: 4.9 (127 avaliações)
+
+# ============================================================================
+2. ESTRUTURA DA CAMPANHA
+# ============================================================================
+
+Tipo de Campanha: Search (Rede de Pesquisa)
+Objetivo: Leads/Contato (cliques no WhatsApp ou telefone)
+
+Configurações:
+- Rede: Pesquisa Google apenas
+- Locais: Brasil (priorizar Rio de Janeiro - RJ)
+- Idioma: Português
+- Orçamento diário: R$ 30,00 - R$ 40,00
+- Estratégia de lance: Maximizar cliques
+- Teto de CPC: R$ 2,00
+- Lance inicial recomendado: R$ 1,00 - R$ 1,50
+
+Segmentação por dispositivo:
+- Mobile: 0% (manter)
+- Desktop: -20%
+- Tablet: -100%
+
+Programação de anúncios:
+- Dias: Segunda a Sábado
+- Horário: 8h às 18h
+
+Conversão:
+- Clique no link WhatsApp
+- Clique no número de telefone
+- Janela de conversão: 7 dias clique
+
+# ============================================================================
+3. GRUPOS DE ANÚNCIOS E PALAVRAS-CHAVE
+# ============================================================================
+
+## GRUPO A - CARIMBO + LOCAL (Alta intenção)
+=========================================================================
+
+Palavras em correspondência de frase (exactas):
+
+"carimbo rio de janeiro"
+"carimbo zona sul rio"
+"carimbo barra da tijuca"
+"carimbo no rio"
+"fabrica carimbo rio"
+"loja carimbo rio"
+"onde comprar carimbo rio"
+
+Palavras em ampla modificada (descoberta):
+
++carimbo +rio +janeiro
++carimbo +zona +sul
++carimbo +barra +tijuca
+
+
+## GRUPO B - TIPOS DE CARIMBO
+=========================================================================
+
+Palavras em correspondência de frase:
+
+"carimbo automático"
+"carimbo datador"
+"carimbo cnpj"
+"carimbo empresa"
+"carimbo médico"
+"carimbo de madeira"
+"carimbo bolso"
+"carimbo automático redondo"
+"carimbo automático quadrado"
+"carimbo assinatura"
+"carimbo caneta"
+"carimbo Trodat"
+
+Palavras em ampla modificada:
+
++carimbo +automático
++carimbo +datador
++carimbo +cnpj
++carimbo +médico
++carimbo +madeira
+
+
+## GRUPO C - NECESSIDADE/INTENÇÃO
+=========================================================================
+
+Palavras em correspondência de frase:
+
+"fazer carimbo"
+"comprar carimbo"
+"pedir carimbo"
+"carimbo para empresa"
+"carimbo para MEI"
+"carimbo personalizado"
+"carimbo com logo"
+"carimbo promocional"
+"reposição carimbo"
+"tinta carimbo"
+
+Palavras em ampla modificada:
+
++fazer +carimbo
++comprar +carimbo
++carimbo +empresa
++carimbo +personalizado
+
+
+# ============================================================================
+4. TERMOS SENSÍVEIS - ALERTAS IMPORTANTES
+# ============================================================================
+
+ATENÇÃO: Alguns termos podem acionar revisões ou restrições no Google Ads
+
+TERMOS QUE DEVEM SER USADOS COM CUIDADO:
+-----------------------------------------
+1. "1 hora" / "em 1 hora" - Claim de prazo que deve ser cumprido
+   Alternativa: "Prontos rapidamente" ou "Serviço ágil"
+
+2. "entrega no mesmo dia" - Promise de entrega que deve ser cumprida
+   Alternativa: "Entrega rápida" ou "Entrega no dia"
+
+3. "melhor" / "o melhor" - Claim comparativo não verificado
+   Alternativa: "Qualificado" ou "Especializado"
+
+4. "garantia" - Pode precisar de comprovação
+   Alternativa: Usar com cautela
+
+5. "mais rápido" - Claim comparativo
+   Alternativa: "Serviço rápido"
+
+TERMOS QUE PODEM SER RESTRITOS:
+-------------------------------
+- Termos médicos podem ter regulamentação específica
+- "Profissional" pode exigir verificação
+- CNPJ pode exigir documentos
+
+
+# ============================================================================
+5. ANÚNCIO RSA (RESPONSIVO)
+# ============================================================================
+
+--- TÍTULOS (15) - Máximo 30 caracteres cada ---
+
+1. Carimbos em 1 Hora no Rio - 25 caracteres
+2. Carimbo Automático Trodat - 25 caracteres
+3. Carimbo Datador Profissional - 26 caracteres
+4. Carimbo CNPJ para Empresa - 25 caracteres
+5. Carimbo Médico com CRF - 22 caracteres
+6. 12 Modelos de Carimbo - 23 caracteres
+7. Entrega no Mesmo Dia - 21 caracteres
+8. Na Zona Sul e Barra - 21 caracteres
+9. Oficina das Chaves - 20 caracteres
+10. Ligue: (21) 3952-7434 - 22 caracteres
+11. WhatsApp: (21) 3952-7434 - 26 caracteres
+12. Prontos em 1 Hora - 20 caracteres
+13. Carimbo Personalizado - 22 caracteres
+14. Fabrica Carimbo Rio - 20 caracteres
+15. Orçamento sem Compromisso - 26 caracteres
+
+
+--- DESCRIÇÕES (4) - Máximo 90 caracteres cada ---
+
+1. Carimbos automática, datador, CNPJ, médico e mais. Prontos em até
+   1 hora com entrega no mesmo dia no Rio. - 99 caracteres (AJUSTAR)
+
+   CORRIGIDO: Carimbos automático, datador, CNPJ, médico e mais.
+   Prontos rapidamente com entrega no Rio. - 89 caracteres
+
+2. 12 modelos disponíveis: automático, quadrado, redondo, datador,
+   médico, madeira e bolso. Orçamento sem compromisso! - 107 caracteres (AJUSTAR)
+
+   CORRIGIDO: 12 modelos: automático, datador, médico, madeira, bolso.
+   Orçamento sem compromisso! - 79 caracteres
+
+3. Precisa de carimbo para sua empresa? Fabricamos todos os tipos.
+   Ligue agora e peça o seu! - 89 caracteres
+
+4. Entregamos em Copacabana, Ipanema, Leblon, Barra e toda a Zona Sul.
+   Carimbos de qualidade! - 92 caracteres (AJUSTAR)
+
+   CORRIGIDO: Entregamos em Copacabana, Ipanema, Barra e Zona Sul.
+   Carimbos de qualidade! - 78 caracteres
+
+
+--- CAMINHO DE EXIBIÇÃO (Display Path) ---
+path1: carimbos (8)
+path2: rio (3)
+
+
+--- URL FINAL ---
+https://wa.me/552139527434?text=Olá,%20gostaria%20de%20fazer%20um%20carimbo
+
+
+# ============================================================================
+6. EXTENSÕES DE ANÚNCIO
+# ============================================================================
+
+--- SITELINKS (6) - Máximo 25 caracteres cada ---
+
+Sitelink 1: Carimbo Automático
+  Desc 1: Modelos Trodat - 15
+  Desc 2: Prontos em 1 hora - 19
+  URL: https://carimbos.oficinadaschaves.com/carimbo-automatico-redondo/
+
+Sitelink 2: Carimbo Datador
+  Desc 1: Automático e padrão - 20
+  Desc 2: Vários modelos - 16
+  URL: https://carimbos.oficinadaschaves.com/carimbo-datador-automatico/
+
+Sitelink 3: Carimbo CNPJ
+  Desc 1: Para empresas - 14
+  Desc 2: Todos os tipos - 14
+  URL: https://carimbos.oficinadaschaves.com/carimbo-cnpj/
+
+Sitelink 4: Carimbo Médico
+  Desc 1: Com CRM/CRF - 12
+  Desc 2: Modelos variados - 18
+  URL: https://carimbos.oficinadaschaves.com/carimbo-medico/
+
+Sitelink 5: Nossos Modelos
+  Desc 1: 12 tipos disponíveis - 21
+  Desc 2: Clique e conheça - 18
+  URL: https://carimbos.oficinadaschaves.com/#produtos
+
+Sitelink 6: Fale Conosco
+  Desc 1: (21) 3952-7434 - 16
+  Desc 2: Seg a Sáb 8h-18h - 20
+  URL: https://wa.me/552139527434
+
+
+--- CALLOUTS (6) - Máximo 25 caracteres cada ---
+
+- Prontos em 1 hora
+- Entrega no mesmo dia
+- 12 modelos
+- Orçamento grátis
+- Qualidade garantida
+- Toda Zona Sul
+
+
+--- SNIPPET ESTRUTURADO ---
+Cabeçalho: Tipos de Carimbo
+Valores:
+- Automático
+- Datador
+- CNPJ
+- Médico
+- Madeira
+- Bolso
+- Caneta
+- Assinatura
+
+
+# ============================================================================
+7. PALAVRAS-CHAVE NEGATIVAS
+# ============================================================================
+
+NEGATIVAS GERAIS (evitar cliques irrelevantes):
+-----------------------------------------
+-emprego
+-vaga
+-curso
+-apostila
+-manual
+-como fazer
+-DIY
+-faça você mesmo
+-grátis
+-gratis
+-gratuito
+-salário
+-aprendiz
+-estágio
+-trabalho
+-carimbo natal
+-carimbo农历
+-carimbo chino
+-carimbo japonês
+
+NEGATIVAS B2B (evitar quem quer serviços marketing):
+-----------------------------------------------
+-marketing
+-divulgar
+-criar logo
+-design gráfico
+
+NEGATIVAS DE PRODUTOS DIFERENTES (não vende):
+------------------------------------------
+-impressão 3d
+-placa
+-sinalização
+-letraseiro
+-banner
+-flyer
+
+
+# ============================================================================
+8. ORÇAMENTO E MÉTRICAS
+# ============================================================================
+
+ORÇAMENTO:
+-----------
+Diário: R$ 30,00 - R$ 40,00
+Mensal estimado: R$ 900,00 - R$ 1.200,00
+Teto CPC: R$ 2,00
+Lance inicial: R$ 1,00 - R$ 1,50
+Cliques diários estimados: 15-30
+
+MÉTRICAS ESPERADAS:
+-------------------
+CTR alvo: > 5%
+CPC médio: < R$ 2,00
+Conversões/mês: 40-80
+Custo por lead: R$ 12-20
+
+
+# ============================================================================
+9. PLANO DE OTIMIZAÇÃO
+# ============================================================================
+
+7 DIAS:
+- Verificar relatório de termos de busca
+- Adicionar negativas baseadas em buscas reais
+- Verificar se anúncios estão sendo exibidos
+
+14 DIAS:
+- Pausar palavras com alto custo e 0 conversões
+- Ajustar títulos que não aparecem
+- Verificar taxa de conversão por grupo
+
+30 DIAS:
+- Analisar performance por grupo de anúncios
+- Ajustar lances das palavras mais convertidas
+- Testar novos títulos
+
+60 DIAS:
+- Avaliar custo por conversão
+- Decidir sobre aumento de orçamento
+- Considerar expansão de palavras
+
+
+# ============================================================================
+10. PRÉ-REQUISITOS ANTES DE PUBLICAR
+# ============================================================================
+
+[ ] Google Business Profile verificado e otimizado
+[ ] Tag de conversão instalada (clique WhatsApp)
+[ ] Extensões configuradas
+[ ] Programação de anúncios definida
+[ ] Negativas importadas
+[ ] Anúncios revisados (sem termos sensíveis excessivos)
+[ ] URLs de destino funcionando
+[ ] Política de privacidade no site (se necessário)
+
+
+# ============================================================================
+11. LINKS DO SITE
+# ============================================================================
+
+Home: https://carimbos.oficinadaschaves.com/
+Produtos: https://carimbos.oficinadaschaves.com/#produtos
+Carimbo Automático Redondo: https://carimbos.oficinadaschaves.com/carimbo-automatico-redondo/
+Carimbo Automático Quadrado: https://carimbos.oficinadaschaves.com/carimbo-automatico-quadrado/
+Carimbo Datador Automático: https://carimbos.oficinadaschaves.com/carimbo-datador-automatico/
+Carimbo Datador Padrão: https://carimbos.oficinadaschaves.com/carimbo-datador-padrao/
+Carimbo CNPJ: https://carimbos.oficinadaschaves.com/carimbo-cnpj/
+Carimbo Médico: https://carimbos.oficinadaschaves.com/carimbo-medico/
+Carimbo Madeira: https://carimbos.oficinadaschaves.com/carimbo-madeira/
+Carimbo Bolso: https://carimbos.oficinadaschaves.com/carimbo-bolso/
+Carimbo Caneta: https://carimbos.oficinadaschaves.com/carimbo-caneta/
+Carimbo Assinatura: https://carimbos.oficinadaschaves.com/carimbo-assinatura/
+WhatsApp: https://wa.me/552139527434
+
+
+# ============================================================================
+12. OBSERVAÇÕES IMPORTANTES
+# ============================================================================
+
+1. POLÍTICAS DO GOOGLE:
+- Evite claims exagerados ou não comprováveis
+- Mantenha o site com informações consistentes com os anúncios
+- O Google pode exigir verificação do negócio
+- "1 hora" deve ser real e cumprimento
+
+2. TERMOS RESTRITOS:
+- "Entrega no mesmo dia" deve ser cumprida
+- "Garantia" deve ser comprovável
+- Evite comparações com concorrentes
+- Carimbos médicos podem ter regulamentação
+
+3. LOCAL:
+- Certifique-se que o Google Business Profile está verificado
+- O endereço deve corresponder ao site
+- Horário de atendimento deve estar atualizado
+
+4. POLÍTICA DE PRIVACIDADE:
+- O site deve ter política de privacidade
+- Cookies devem ser comunicados
+- LGPD compliance recomendado
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

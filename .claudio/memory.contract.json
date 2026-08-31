@@ -1,0 +1,47 @@
+{
+  "version": "1",
+  "workspaceId": "66754b22f9294de9",
+  "workspaceName": "carimbo-oficinadaschaves",
+  "enabled": true,
+  "updatedAt": "2026-08-31T14:37:36.996Z",
+  "detectedStack": {
+    "languages": [],
+    "frameworks": [],
+    "uiLibraries": [],
+    "orm": [],
+    "authLibraries": [],
+    "validationLibraries": [],
+    "paymentLibraries": [],
+    "testTools": [],
+    "scripts": {},
+    "importantDirs": [],
+    "sensitiveFiles": []
+  },
+  "sections": {
+    "stack": [],
+    "packageManager": [],
+    "architectureRules": [],
+    "codingConventions": [],
+    "sensitiveFiles": [],
+    "forbiddenActions": [],
+    "allowedCommands": [],
+    "businessRules": [],
+    "integrationRules": [
+      {
+        "id": "b51d52158801c6eb",
+        "text": "Vercel deployment config detected. Treat env vars as production unless documented otherwise.",
+        "kind": "constraint",
+        "source": "repo_detected",
+        "confidence": "confirmed",
+        "scope": "workspace",
+        "evidence": {
+          "file": "vercel.json"
+        },
+        "lastVerifiedAt": "2026-08-31T14:37:36.996Z"
+      }
+    ],
+    "testingExpectations": [],
+    "agentInstructions": [],
+    "openQuestions": []
+  }
+}
